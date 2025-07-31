@@ -36,7 +36,7 @@ A full-stack Flask web app to connect brands with influencers, manage campaigns,
 A machine learning model built with scikit-learn to predict car prices based on input features, wrapped in a web UI with Flask.
 
 🔗 [The webAPP](https://github.com/Chanaksha2003/Amigo-Voice-Assistant-Console-App)  
-Python-based offline console voice assistant that supports hands-free interaction through speech input and output.
+Python based offline console voice assistant that supports hands-free interaction through speech input and output.
 
 ---
 
