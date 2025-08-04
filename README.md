@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Chanaksha!
+## 👋 Hi there, I'm Chanaksha! 
 
 🎓 Recently earned a Bachelor's degree in Electronics and Telecommunication Engineering  
 💻 I am currently working on full-stack development, with a strong enthusiasm for backend technologies  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me :-
 
 - 🔭 I’m currently building full-stack web apps using **Flask**, **SQLite**, and **YouTube Data API v3**
 - 🌱 Exploring **API integrations** (e.g., YouTube Data API v3), **dashboard development**, and **backend optimization**
