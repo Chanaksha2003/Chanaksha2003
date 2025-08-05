@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Chanaksha! 
 
-🎓 Recently earned a Bachelor's degree in Electronics and Telecommunication Engineering  
+🎓 Recently earned a Bachelor's degree in Electronics and Telecommunication Engineering   
 💻 I am currently working on full-stack development, with a strong enthusiasm for backend technologies  
 🤖 Actively working on **machine learning** projects focused on regression, prediction, and real-world data analysis  
 
