@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, HTML, CSS, JavaScript
+- **Languages**: Python, SQL, HTML, CSS, JavaScript 
 - **Frameworks and Libraries**: Flask, Pandas, Scikit-learn, Matplotlib, NumPy, Seaborn. 
 - **Database**: MySQL, SQLite
 - **Platforms**: RESTful API, YouTube Data API v3, Jupyter Notebook, MySQL, VS Code, Git, GitHub.
